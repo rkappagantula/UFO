@@ -20,10 +20,9 @@ The final result was the working website that allowed for five different categor
 - The website was designed using JavaScript and HTML. It has been well arranged and decorated using CSS and Bootstrap. 
 - To navigate through its functionality, the user would need to click on the input boxes provided to the left and enter a valid text-option for the category to be filtered. If you enter a incorrect fitler or a variable that does not exist in the data, you will get an empty table. In this case, try again.
 Filter example: 
+![image](https://user-images.githubusercontent.com/96051648/156905912-9b8eb71c-b25f-4105-8650-de3bfe697312.png)
 
-
-Multi-filter example: 
-
+![image](https://user-images.githubusercontent.com/96051648/156905950-a5460e85-c506-4ddb-9a7d-10cb9e90ac33.png)
 
 ## Summary
-One drawback is that the dataset used only includes sightings in the US. This may affect the website because it might not get as much attention from other parts of the World. One recommendation could be to find more data online and insert it in the same data.js file following the same format. Additionally, another recommendation could be to futher decorate the website. CSS and Bootstrap have infinite options to make an even more aesthetically pleasant website. 
+The dataset used only includes sightings in the US. This may affect the website because it might not get as much attention from other parts of the World. One recommendation could be to find more data online and insert it in the same data.js file following the same format.
